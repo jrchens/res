@@ -1,0 +1,30 @@
+{
+  "name": "simple-module",
+  "version": "3.0.3",
+  "homepage": "https://github.com/mycolorway/simple-module",
+  "authors": [
+    "farthinker <farthinker@gmail.com>"
+  ],
+  "description": "A simple base class for js modules.",
+  "main": "dist/simple-module.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test",
+    "build",
+    "gulpfile.coffee",
+    "package.json"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  },
+  "_release": "3.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.3",
+    "commit": "500793ce48338c940e575c6ad21dedc34318f70d"
+  },
+  "_source": "https://github.com/mycolorway/simple-module.git",
+  "_target": "~3.0.0",
+  "_originalSource": "simple-module"
+}

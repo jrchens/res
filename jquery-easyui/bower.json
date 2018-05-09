@@ -1,0 +1,13 @@
+{
+  "name": "jquery-easyui",
+  "homepage": "https://github.com/SimpleLifeCS/jquery-easyui",
+  "authors": [
+    "info@jeasyui.com"
+  ],
+  "description": "download from http://jeasyui.com/download/downloads/jquery-easyui-1.5.3.zip",
+  "main": "easyloader.js",
+  "keywords": [
+    "jquery-easyui"
+  ],
+  "license": "MIT"
+}
